@@ -1,0 +1,1 @@
+../../grammars/bdm/queries/highlights.scm

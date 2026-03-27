@@ -1,0 +1,6 @@
+name = "Bdm"
+grammar = "bdm"
+path_suffixes = ["bdm", "inc"]
+line_comments = ["//"]
+tab_size = 4
+hard_tabs = false

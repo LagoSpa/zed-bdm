@@ -1,0 +1,10 @@
+id = "bdm"
+name = "Bdm Grammar"
+version = "0.1.0"
+schema_version = 1
+authors = ["Luca Zorzo <luca.zorzo@lago.it>"]
+description = "Tree-sitter grammar for Bdm"
+
+[grammars.bdm]
+repository = "https://github.com/LagoSpa/tree-sitter-bdm.git"
+rev = "c250495594f03714e0b3faa24b3dec6986e48423"
